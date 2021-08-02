@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const target = path.resolve(__dirname, '..', 'test', 'setup', 'VisionStation-SDK.js');
+const target = path.resolve(__dirname, '..', 'test', 'setup', 'Vision-Station-SDK.js');
 
 try {
     fs.unlinkSync(target);

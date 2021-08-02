@@ -92,8 +92,8 @@ module.exports = [
         ...baseConfig,
         output: {
             path: path.resolve(__dirname, 'dist'),
-            filename: 'visionstation-sdk.js',
-            library: 'visionstation-sdk',
+            filename: 'vision-station-sdk.js',
+            library: 'vision-station-sdk',
             libraryTarget: 'umd',
             libraryExport: 'default',
             umdNamedDefine: true

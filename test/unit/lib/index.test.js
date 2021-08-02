@@ -1,5 +1,5 @@
 const {assert, assertThrow, visionStationBuilder, net, } = require('../../helpers/includes')
-const { SHASTA } = require('../../helpers/config')
+const { VTEST } = require('../../helpers/config')
 
 const VisionWeb = require('visionweb');
 
@@ -25,8 +25,8 @@ describe('#index functional unit test', function () {
 
             // assert.equal(res.rewardList.length, 1);
             // const newVisionWeb = new VisionWeb({
-            //     fullHost: SHASTA.HOST,
-            //     privateKey: SHASTA.PRIVATE_KEY
+            //     fullHost: VTEST.HOST,
+            //     privateKey: VTEST.PRIVATE_KEY
             // });
             // visionStation.setVisionWeb(newVisionWeb)
             // res = await visionStation.witness.getSrVoteRewardList()

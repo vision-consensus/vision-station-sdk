@@ -1,12 +1,12 @@
 const VisionWeb = require('visionweb');
-const VisionStation = require('../setup/VisionStation-SDK');
-const {SHASTA, LOCAL, NET} = require('./config');
+const VisionStation = require('../setup/Vision-Station-SDK');
+const {VTEST, LOCAL, NET} = require('./config');
 
 const createInstance = net => {
     let node;
     switch (net) {
-        case 'shasta':
-            node = SHASTA;
+        case 'vtest':
+            node = VTEST;
             break;
         case 'local':
             node = LOCAL;
