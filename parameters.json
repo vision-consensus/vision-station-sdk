@@ -1,0 +1,212 @@
+{
+  "chainParameter": [
+    {
+      "key": "getMaintenanceTimeInterval",
+      "value": 300000
+    },
+    {
+      "key": "getAccountUpgradeCost",
+      "value": 2000000000
+    },
+    {
+      "key": "getCreateAccountFee",
+      "value": 100000
+    },
+    {
+      "key": "getTransactionFee",
+      "value": 10
+    },
+    {
+      "key": "getAssetIssueFee",
+      "value": 1024000000
+    },
+    {
+      "key": "getWitnessPayPerBlock",
+      "value": 144000
+    },
+    {
+      "key": "getWitnessPayPerBlockInflation",
+      "value": 146786
+    },
+    {
+      "key": "getWitnessStandbyAllowance",
+      "value": 115200000000
+    },
+    {
+      "key": "getWitnessStandbyAllowanceInflation",
+      "value": 117429120000
+    },
+    {
+      "key": "getCreateNewAccountFeeInSystemContract"
+    },
+    {
+      "key": "getCreateNewAccountPhotonRate",
+      "value": 1
+    },
+    {
+      "key": "getAllowCreationOfContracts",
+      "value": 1
+    },
+    {
+      "key": "getRemoveThePowerOfTheGr"
+    },
+    {
+      "key": "getEntropyFee",
+      "value": 5
+    },
+    {
+      "key": "getExchangeCreateFee",
+      "value": 1024000000
+    },
+    {
+      "key": "getMaxCpuTimeOfOneTx",
+      "value": 50
+    },
+    {
+      "key": "getAllowUpdateAccountName"
+    },
+    {
+      "key": "getAllowSameTokenName"
+    },
+    {
+      "key": "getAllowDelegateResource",
+      "value": 1
+    },
+    {
+      "key": "getTotalEntropyLimit",
+      "value": 3000000000
+    },
+    {
+      "key": "getAllowVvmTransferVrc10",
+      "value": 1
+    },
+    {
+      "key": "getTotalEntropyCurrentLimit",
+      "value": 3000000000
+    },
+    {
+      "key": "getAllowMultiSign",
+      "value": 1
+    },
+    {
+      "key": "getAllowAdaptiveEntropy"
+    },
+    {
+      "key": "getTotalEntropyTargetLimit",
+      "value": 208333
+    },
+    {
+      "key": "getTotalEntropyAverageUsage"
+    },
+    {
+      "key": "getUpdateAccountPermissionFee",
+      "value": 100000000
+    },
+    {
+      "key": "getMultiSignFee",
+      "value": 1000000
+    },
+    {
+      "key": "getAllowAccountStateRoot"
+    },
+    {
+      "key": "getAllowProtoFilterNum"
+    },
+    {
+      "key": "getAllowVvmConstantinople"
+    },
+    {
+      "key": "getAllowVvmSolidity059"
+    },
+    {
+      "key": "getAllowVvmIstanbul"
+    },
+    {
+      "key": "getAllowShieldedVRC20Transaction"
+    },
+    {
+      "key": "getForbidTransferToContract"
+    },
+    {
+      "key": "getAdaptiveResourceLimitTargetRatio",
+      "value": 10
+    },
+    {
+      "key": "getAdaptiveResourceLimitMultiplier",
+      "value": 1000
+    },
+    {
+      "key": "getChangeDelegation",
+      "value": 1
+    },
+    {
+      "key": "getWitness123PayPerBlock",
+      "value": 1200000
+    },
+    {
+      "key": "getWitness123PayPerBlockInflation",
+      "value": 1223220
+    },
+    {
+      "key": "getAllowMarketTransaction"
+    },
+    {
+      "key": "getMarketSellFee"
+    },
+    {
+      "key": "getMarketCancelFee"
+    },
+    {
+      "key": "getAllowPBFT"
+    },
+    {
+      "key": "getAllowTransactionFeePool"
+    },
+    {
+      "key": "getMaxFeeLimit",
+      "value": 1000000000
+    },
+    {
+      "key": "getAllowOptimizeBlackHole"
+    },
+    {
+      "key": "getEconomyCycle",
+      "value": 120
+    },
+    {
+      "key": "getSpreadMintPayPerBlock",
+      "value": 256000
+    },
+    {
+      "key": "getSpreadMintPayPerBlockInflation",
+      "value": 260953
+    },
+    {
+      "key": "getAllowSpreadMintLevelProp",
+      "value": 1
+    },
+    {
+      "key": "getSpreadMintLevelProp",
+      "string_value": "80,10,8,2"
+    },
+    {
+      "key": "getInflationRate",
+      "value": 2322
+    },
+    {
+      "key": "getPledgeRate"
+    },
+    {
+      "key": "getPledgeRateThreshold",
+      "value": 60
+    },
+    {
+      "key": "getLowInflationRate",
+      "value": 689
+    },
+    {
+      "key": "getHighInflationRate",
+      "value": 2322
+    }
+  ]
+}
