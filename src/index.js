@@ -3,9 +3,6 @@ import Photon from 'lib/Photon';
 import Witness from 'lib/Witness';
 import Apis from 'utils/Apis';
 
-// Photon - 带宽  - 光量子
-// Entropy - 能量 - 烱
-
 export default class VisionStation {
 
     constructor(visionWeb = false) {
